@@ -1,0 +1,12 @@
+*.qmlc
+*.jsc
+
+*~
+
+tmp-*
+
+build
+dist
+.qmake.stash
+Makefile
+test
